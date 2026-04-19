@@ -67,18 +67,4 @@ The dashboard includes:
 
 This project was completed as part of **Luke Barousse**'s *Excel for Data Analytics* course.
 
-> 📺 [Luke Barousse on YouTube](https://www.youtube.com/@LukeBarousse) — one of the best free resources for data analytics fundamentals. His teaching style makes complex concepts genuinely approachable, and this Power Pivot module specifically pushed me to think about data like an analyst, not just a spreadsheet user.
-
----
-
-## 👤 Author
-
-**Ahmed** · Data Analytics Student · American University in Cairo (Continuing Education)
-
-*Interests: Data Analytics, Supply Chain, and occasionally shredding 7-string riffs in Drop F#* 🎸
-
----
-
-## 📄 License
-
-This project is for educational/portfolio purposes. Dataset originally compiled by Luke Barousse.
+> 📺 [Luke Barousse on YouTube](https://www.youtube.com/@LukeBarousse) — one of the best free resources for data analytics fundamentals. His teaching style makes complex concepts genuinely approachable, and this Power Pivot module specifically pushed me to think about data like an analyst.
